@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:06&#x5f15;&#x7528;/06&#x5f15;&#x7528;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:05&#x9ed8;&#x8ba4;&#x53c2;&#x6570;/05&#x9ed8;&#x8ba4;&#x53c2;&#x6570;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:04&#x51fd;&#x6570;&#x91cd;&#x8f7d;/04&#x51fd;&#x6570;&#x91cd;&#x8f7d;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:03C++&#x683c;&#x5f0f;&#x5316;/03C++&#x683c;&#x5f0f;&#x5316;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:02&#x8868;&#x8fbe;&#x5f0f;&#x88ab;&#x8d4b;&#x503c;C++/02&#x8868;&#x8fbe;&#x5f0f;&#x88ab;&#x8d4b;&#x503c;C++.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:01&#x7c7b;&#x578b;&#x68c0;&#x67e5;C/01&#x7c7b;&#x578b;&#x68c0;&#x67e5;C.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:01&#x7c7b;&#x578b;&#x68c0;&#x67e5;C++/01&#x7c7b;&#x578b;&#x68c0;&#x67e5;C++.xcodeproj">
+   </FileRef>
+</Workspace>
