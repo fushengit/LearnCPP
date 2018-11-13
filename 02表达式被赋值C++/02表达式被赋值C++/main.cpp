@@ -8,6 +8,10 @@
 
 #include <iostream>
 
+/*
+    表达式赋值： 先把表达式内部计算出来，后计算外部。
+ */
+
 int main(int argc, const char * argv[]) {
     int a;
     (a = 3+5) = 10;
