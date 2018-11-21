@@ -33,7 +33,7 @@ void test2(){
     int* a;
     int*& pa = a;
     *pa = 100; //编译虽然通过，但是会crash在这里（因为引用的对象必须被初始化，这里没有初始化）
-    cout<<a<<endl;
+    cout<<a<<endl;`
 }
 
 void test3(){
