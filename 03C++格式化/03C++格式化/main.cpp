@@ -11,6 +11,14 @@
 
 using namespace std;
 
+/*
+ setw:设置对齐长度（右对齐）
+ setfill:设置对齐长度时的填充，通常于setw一起使用
+ setprecision:设置有效位数。
+ 
+ */
+
+
 /* 1. c++默认只输出6为有效数字,需要注意的是最后一位不一定是四舍五入 */
 void test1(){
     //c++
@@ -48,7 +56,7 @@ void test3(){
     printf("%+5d",1);
 }
 
-/* 4. 小数点精度 */
+/* 4. 有效位数 */
 void test4(){
     //c++
     cout<<  setprecision(3)<<1.2345<<   endl;

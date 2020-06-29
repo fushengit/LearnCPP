@@ -8,6 +8,12 @@
 
 #include <iostream>
 
+/*
+ 默认参数的顺序：从右到左，中间不能有间隔。
+ 默认参数先声明，后定义。
+ 默认参数和函数重载不能结合使用，容易出现函数二义性。
+ */
+
 using namespace std;
 
 void test1(int a, float b = 0.1){
